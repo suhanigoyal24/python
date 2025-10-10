@@ -9,3 +9,4 @@ Allows user to :
 7)Search lending details of a record by book code
 8)Display interest on a book lent by book code
 9)Entering date of return of a book  by book code
+10)Exit
